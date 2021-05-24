@@ -1,0 +1,426 @@
+12001 Acapulco de Juarez 593 212 722 499 789971 810669 2.0 og 05 17278 100.2 ZM_de_Acapulco_
+12021 Coyuca de Benitez 60 762 69 059 73460 76 306 13 06 og 18208 43.1 ZM_de_Acapulco_
+30003 Acayucan 70089 78 243 83817 87 267 11 OF 09 6557 b6.1 ZM_de_Acayucan_
+30116 Oluta 11552 13 282 14784 16710 14 1.0 2.6 78.0 48.4 ZM_de_Acayucan_
+30145 Soconusco 9712 11467 14395 16 363 ? 22 27 963 40.7 ZM_de_Acayucan_
+01001 Aguascalientes 506 274 643 419 797 010 877 190 24 21 20 1178.1 108.2 ZM_de_Aguascalientes_
+01005 Jesus Mar’a 41092 64097 99 590 120 405 46 44 41 505.0 75.0 ZM_de_Aguascalientes_
+01011 San Francisco de los Romo na 20 066 35 769 46 454 na 58 56 139.2 83.3 ZM_de_Aguascalientes_
+04002 Campeche 173 645 216 897 259 00S 283 025 23 L? 19 3244.0 69.3 ZM_de_Campeche_
+23003 Isla Mujeres 10 666 11313 16 203 19 495 06 35 40 944.8 b6.3 ZM_de_Cancún_
+23005 Benito Juarez 176 765 419 815 661276 743 626 92 45 2.5 2108.8 104.3 ZM_de_Cancún_
+11007 Celaya 310 $69 382 958 468 469 494 304 21 20 11 ool 90.8 ZM_de_Celaya_
+11009 Comenfort 56992 6/642 71194 82/2 18 14 13 488/ 4/3 ZM_de_Celaya_
+11011 Cortazar 74 383 81359 88 397 95 961 09 08 ? 335.2 85.6 ZM_de_Celaya_
+11044 Villagran 38.680 45941 55/82 58 830 L/ 1s Ll 128.5 13.8 ZM_de_Celaya_
+23004  OthonP Blanco 140 275 175 980 207 810 224 080 2.3 16 1.6 9998.2 629 ZM_de_Chetumal_
+08002 Aldama 17169 19378 22 302 24761 12 14 22 9216.3 47.0 ZM_de_Chihuahua_
+08004 Aquiles Serdan 3916 5327 10 688 15 526 31 7.0 1 4295.4 49.9 ZM_de_Chihuahua_
+08019 Chihuahua 530783 671790 819543 878 062 24 Lg ls 83819 66.5 ZM_de_Chihuahua_
+12029 Chilpancingo de los Bravo 136 164 192947 241717 273 106 3.6 22 2.6 2180.6 90.3 ZM_de_Chilpancingo_
+12075 Eduardo Neri 32997 40 064 46 158 51326 20 14 23 1249.3 88.3 ZM_de_Chilpancingo_
+28041 Victoria 207 903 263 063 321983 346 029 24 20 1s 1463.6 65.2 ZM_de_Ciudad_Victoria_
+30039 Coatzacoalcos 233115 267 212 305 260 319 187 1a 13 08 3119 80.3 ZM_de_Coatzacoalcos_
+ ZM_de_Coatzacoalcos_
+30082 Ixhuatlin del Sureste 11987 13294 14903 15 800 10 LL 12 1567 448 ZM_de_Coatzacoalcos_
+ ZM_de_Coatzacoalcos_
+30206 Nanchital de Lazaro 26723 27218 27094 30 039 0.2 0.0 22 283 93.4 ZM_de_Coatzacoalcos_
+Cardenas del Rio ZM_de_Coatzacoalcos_
+06002 Colima 116 $05 129 988 146 904 180 673 ql 12 05 746.0 627 ZM_de_Colima-Villa_de_Álvarez_
+06003 Cemala 16 909 19 384 20 888 21544 14 oF oF 314.3 38.9 ZM_de_Colima-Villa_de_Álvarez_
+06004 Coquimatlén 16019 18 786 19 385 20 198 16 03 09 327.0 S01 ZM_de_Colima-Villa_de_Álvarez_
+06005 Cuauhtémec 24.458 26//1 2/107 30.198 09 ol 23 4123 39.4 ZM_de_Colima-Villa_de_Álvarez_
+06010 Villa de Alvarez 37 B42 80 808 119 986 136779 79 3.9 2.8 288.0 85.3 ZM_de_Colima-Villa_de_Álvarez_
+30014 Amatlan de los Reyes 33 669 36 823, 42 268 45 430 09 13 1s isl4 249 ZM_de_Córdoba_
+30044 Cérdova 150 454 1/7 288 196 S41 218 153 ls 10 22 1s9.9 927 ZM_de_Córdoba_
+30068 Fortin 36 882 46 083 59761 66 168 23 26 22 612 523 ZM_de_Córdoba_
+30196 Yanga 16/01 16 389 1/462 1/ 896 02 06 os B79 34.2 ZM_de_Córdoba_
+17002 Atlatlahucan 9255 14 708 18 895 22079 48 25 33 794 29.3 ZM_de_Cuautla_
+17004 Ayala 52.969 69 381 78 B66 85521 28 12 1? 368.3 50.4 ZM_de_Cuautla_
+17006 Cuautla 120 315 193 329 175 207 194 786 28 13 23 1219 582 ZM_de_Cuautla_
+17026 Tlayacapan 9868 13851 16 543 17714 35 Lz Lé 572 SL6 ZM_de_Cuautla_
+17029 Yautepec 60 258 84405 97 827 102 690 38 14 10 179.6 424 ZM_de_Cuautla_
+17030 Yecapixtla 27 032 36582 46 809 52651 31 24 25 2732 46.7 ZM_de_Cuautla_
+17007 Cuernavaca, 281294 338 706 365 168 366 321 1g O7 ol 199.7 73.6 ZM_de_Cuernavaca_
+17008 Emiliano Zapata 33 646 57 617 83.485 99 493 56 By 38 683 56.6 ZM_de_Cuernavaca_
+17009 Huitzilac 10573 15184 17 340 19231 37 13 22 189.1 30.0 ZM_de_Cuernavaca_
+17021 Jiutepec 102275 170589 296953 224137 5.4 14 18 55.9 93.9 ZM_de_Cuernavaca_
+17018 Ternixco 67 736 92850 108126 116 143 3.2 1s Ls 102.8 59.3 ZM_de_Cuernavaca_
+17020 Tepoztlan 27 646 32921 42629 46 946 18 23 26 2424 5B.8 ZM_de_Cuernavaca_
+17024 Tlaltizapan de Zapata 37 497 45 272 48 881 92110 1g O7 14 238.5 38.1 ZM_de_Cuernavaca_
+17028 Xochitepec 27 828 45 643 63382 68 984 5.1 3.2 18 93.2 43.2 ZM_de_Cuernavaca_
+28006  Culiacan 601123 745 537 858 638 90S 265 22 14 LL 6 305.0 80.8 ZM_de_Culiacán_
+08021 Delicias 104014 116 426 137935 148 045 ll L? 1s 933.1 64.3 ZM_de_Delicias_
+08045 Meoqui 34995 40018 43.833 44752 14 09 04 429.2 428 ZM_de_Delicias_
+10005 Durango 413 835 491 436 582 267 654 876 1? L? 25 9285.4 89.2 ZM_de_Durango_
+02001 Ensenada 259979 370 730 466814 486 639 3.6 23 0.9 53123.0 94.3 ZM_de_Ensenada_
+14002 Acatlan de Juarez 14450 20 236 23.241 22261 34 13 09 134.0 49.4 ZM_de_Guadalajara_
+14039 Guadalajara 2650205 1646319 « 1495189 © 1460148 0.0 09 05 252 1495 ZM_de_Guadalajara_
+M4044 paahuacan de los 16 674 21 608 41060 53.045 26 64 58 2012 60.6 ZM_de_Guadalajara_
+14051 Juanacatlin 10 068 21792 13218 27955 16 ae 66 23BL 44 ZM_de_Guadalajara_
+14070 E1Salto 38 281 83453 138 226 183 437 8.2 5.0 61 92.8 72.0 ZM_de_Guadalajara_
+14097 Tlajomulco de Zthiga 68 428 123619 416 626 549 442 61 12.5 6.0 674.0 95.0 ZM_de_Guadalajara_
+14098 San Pedro Tlaquepaque 339 649 474178 608 114 664193 34 24 19 116.4 122.4 ZM_de_Guadalajara_
+14101 Tonal 168 555 337.149 478 689 536111 72 3.5 24 258.0 227.9 ZM_de_Guadalajara_
+14120 Zapopan 712008 1001021 1243756 1332272 38 21 Ls 1136.3 110.2 ZM_de_Guadalajara_
+14124 Zapotlanejo 39 902 53 461 63 636 68519 3.0 LT 16 718.8 53.9 ZM_de_Guadalajara_
+11015 Guanajuato 119170 141196 171709 184 239 7 1g 1s 1014.1 83.8 ZM_de_Guanajuato_
+26025 Empalme 46017 49 987 94131 56177 08 O8 08 593.2 42S ZM_de_Guaymas_
+26029 Guaymas 129 092 130 329 149 299 158 046 o1 13 12 79508 55.5 ZM_de_Guaymas_
+26030 Hermosillo 448 966 609 829 784 342 884 273 31 25 2.6 16 955.2 79.1 ZM_de_Hermosillo_
+08032 Hidalgo del Parral 90 647 100 821 107 061 109 $10 ql 06 05 1923.6 69.4 ZM_de_Hidalgo_del_Parral_
+08059 San Francisco del Oro 9486 6054 4753 5 086 44 23 14 479.9 28.6 ZM_de_Hidalgo_del_Parral_
+08037 Juarez 798499 1218817 1332131  1391180 43 09 0.9 3 S475 679 ZM_de_Juárez_
+05009 Francisco | Madero 50 981 46 452 55 676 58 360 og 18 10 2810.1 463 ZM_de_La_Laguna_
+05027 Matamoros 86 398 92029 207 160 108 950 0.6 LS 03 806.0 58.8 ZM_de_La_Laguna_
+05035 Torreén 464 825 529512 639 629 679 288 13 18 13 12828 813 ZM_de_La_Laguna_
+10007 Gémez Palacio 232742 273318 327 985 342 286 16 18 09 842.4 82.2 ZM_de_La_Laguna_
+10012 Lerdo 94 324 112 435 141 043 193311 18 2.2 18 2147.7 526 ZM_de_La_Laguna_
+03003 LaPaz 160 970 196 907 251 871 272711 20 24 ? 15 838.1 60.4 ZM_de_La_Paz_
+11023 Penjamo 137 B42 144 426 149 936 150570 Os 04 ol 1561.1 $2.4 ZM_de_La_Piedad-Pénjamo_
+16069 La Piedad 81162 84946 99576 103 702 ory 1s 09 2847 78.2 ZM_de_La_Piedad-Pénjamo_
+11020 Leén 867920 1134842 1436480 1578 626 27 23 20 12216 129.4 ZM_de_León_
+1103/ Silao dela Victoria 115130 13433/ 1/3024 189 56/ 16 25 19 538.5 79.2 ZM_de_León_
+09002 Azcapotzalco 474 688 441 008 414711 400 161 o7 06 07 BBS 189.0 ZM_del_Valle_de_México_
+09003 Coyoacdn 640 066 640 423 620416 608 479 00 03 Oe 53.9 194.4 ZM_del_Valle_de_México_
+09004 Cuajimalpa de Morelos 119 669 191 222 186 391 199 224 24 20 14 71S 89s ZM_del_Valle_de_México_
+09005 Gustavo A Madero 1268068 1235542 1185772 164.477 03 04 Oe 87.9 200.2 ZM_del_Valle_de_México_
+09006 Iztacaleo 448 322 411321 384 326 390 348 og o7 03 231 2104 ZM_del_Valle_de_México_
+09007 Iztapalapa 1490499 1773343 «1815786  827 B68 18 02 ol 213.2 215.4 ZM_del_Valle_de_México_
+09008 La Magdalena Contreras 195 041 222 050 239 086 243 886 1g o7 o4 634 162.3 ZM_del_Valle_de_México_
+09009 Milpa Alta 63.654 96773 230 582 137927 43 29 12 298.2 473 ZM_del_Valle_de_México_
+09010 Alvaro Obregon 642 753 687 020 727 034 749 982 o7 os 07 95.9 193.5 ZM_del_Valle_de_México_
+09021 Tlahuac 206 700 302 790 360 265 361 593 39 LT ol 859 135.8 ZM_del_Valle_de_México_
+09012 Tlalpan A84 866 581781 650 S67 677 104 19 ll os 3145 1199 ZM_del_Valle_de_México_
+09023 Xochimilco 272151 369 787 415 007 415 933 32 La 00 214s 938 ZM_del_Valle_de_México_
+09014 Benito Juarez 407 811 360 478 385 439 417 416 12 o7 1? 267 17 ZM_del_Valle_de_México_
+09025 Cuauhtémoc 595 960 526 255 531 832 532553 14 03 00 32.5 215.6 ZM_del_Valle_de_México_
+09016 Miguel Hidalgo AD6 868 352 640 372 B89 364 439 14 os os 46.4 186.7 ZM_del_Valle_de_México_
+09027 Yenustiano Carranza 519 628 262 806 430.978 427 263 12 o7 02 33.9 209.5 ZM_del_Valle_de_México_
+13069 Tizayuca 30 293 46 344 97 461 119 442 44 7s 44 76.8 S78 ZM_del_Valle_de_México_
+15002 Acolman 23.276 61.250 236 558 152 506 36 BL 23 869 78.8 ZM_del_Valle_de_México_
+15009 Amecameca 36321 45 255 48421 50904 22 o7 ll 176.4 459 ZM_del_Valle_de_México_
+15020 Apaxco 18 500 23734 27522 29347 25 14 Lé 757 403 ZM_del_Valle_de_México_
+15011 Atenco 21219 34.435 56 243 62392 50 49 22 87.6 o21 ZM_del_Valle_de_México_
+15023 Atizapan de Zaragoza 315192 267 886 489 937 523 296 4 04 Lé 929 130.8 ZM_del_Valle_de_México_
+1015 Atlaurla 18.993 25.950 27 663 30.945 32 06 24 1677 377 ZM_del_Valle_de_México_
+15026 Axapusco 15 B03 20516 25559 27709 2? 22 1? 286.5 236 ZM_del_Valle_de_México_
+15017 Ayapango 4239 5947 8864 9863 38 39 23 50.7 29.0 ZM_del_Valle_de_México_
+15020 Coacaleo de Berriozabal 252 082 252 555 278.064 284 462 52 09 OS 35.0 1612 ZM_del_Valle_de_México_
+15022 Cocotitlan 8068 10 205 12142 14.414 24 17 37 148 523 ZM_del_Valle_de_México_
+15023 Coyotepec 24451 35358 39.030 41820 38 10 1s 39.9 28.6 ZM_del_Valle_de_México_
+15025 Chalco 282940 217972 310130 343701 2.6 3.5 22 225.2 96.5 ZM_del_Valle_de_México_
+15028 Chiautla, 14 764 19620 26191 29159 29 28 23 20.1 228 ZM_del_Valle_de_México_
+15029 Chicoloapan 97 306 77579 175053 204 107 3.1 B2 3.3 413 150.4 ZM_del_Valle_de_México_
+15030 Chiconcuac 24179 17972 22819 25543 24 23 24 6.8 514 ZM_del_Valle_de_México_
+15031 Chimalhuacan, 242317 490 772 614453 679811 7A 22 21 $4.4 159.1 ZM_del_Valle_de_México_
+15033 Ecatepec de Morelos 1228135 1622697 1656 107 1677 678 29 0.2 03 156.2 164.6 ZM_del_Valle_de_México_
+15034 Ecatzingo 5 808 7916 9369 9414 3.2 16 o1 $3.2 11.2 ZM_del_Valle_de_México_
+15035 Huehuetaca 25529 38458 100023 128 486 42 7 54 129.8 768 ZM_del_Valle_de_México_
+15036 Hueypoxtla 26189 33343 39 864 43 784 25 L7 20 234.5 20.2 ZM_del_Valle_de_México_
+15037 Huixquilucan 131926 293468 242 167 267 858 39 22 21 140.9 100.4 ZM_del_Valle_de_México_
+15038 Isidro Fabela 5190 8163 10 308 11726 AT 23 27 797 17.6 ZM_del_Valle_de_México_
+15039 Ixtapaluca 137357 297570 467 361 495 563 B81 45 12 324.0 142.4 ZM_del_Valle_de_México_
+15044 Jaltenco 22 803 31629 26 328 27825 3.3 18 12 47 157.7 ZM_del_Valle_de_México_
+15046 lilatzingo 9011 15 086 27970 19013 53 7? 12 1265 208 ZM_del_Valle_de_México_
+15050 Juchitepec 14270 18 963 23497 25 436 29 21 l? 132.5 727 ZM_del_Valle_de_México_
+15053 Melchor Ocampo 26154 37716 50 240 57152 3.8 28 27 14.0 65.9 ZM_del_Valle_de_México_
+15057 Naucalpan de Juarez 786 S51 B58 711 833779 844219 0.9 03 0.3 197.9 192.8 ZM_del_Valle_de_México_
+15058 Nezahualcéyotl 1256115 1225972 1120565 1039 867 02 10 14 63.3 2268 ZM_del_Valle_de_México_
+15059 Nextlalpan 10 840 19532 34374 39 666 6.1 5.6 3.1 S47 315 ZM_del_Valle_de_México_
+15060 Nicolas Romero 184134 269546 366 602 410118 39 3.0 24 232.5 86.5 ZM_del_Valle_de_México_
+15061 Nopaltepec 5234 7512 BB95 B 960 37 16 0.2 82.6 158 ZM_del_Valle_de_México_
+15065 Otumba 21834 29097 34232 35.274 29 16 0.6 1419 22.0 ZM_del_Valle_de_México_
+15068 Ozumba 18052 23592 27 207 29114 27 14 14 474 46.1 ZM_del_Valle_de_México_
+15069 Papalotla 2387 3469 4147 3963 3.8 L7 0.9 3.2 19.4 ZM_del_Valle_de_México_
+15070 La Paz 134782 212694 253 845 293725 AT L7 3.1 37.5 134.7 ZM_del_Valle_de_México_
+15075 San Martin de las Piramides 23563 19694 24851 26 960 3.8 23 1? 69.9 43.0 ZM_del_Valle_de_México_
+15081 Tecamac 123 218 172813 364579 446 008 3.5 7S 43 156.9 98.2 ZM_del_Valle_de_México_
+15083 Temamatla 5 366 B B40 21206 12984 5.2 23 3.1 29.2 37.2 ZM_del_Valle_de_México_
+15089 Tenango del Aire 6 207 8486 10578 12470 32 22 3.5 38.0 410 ZM_del_Valle_de_México_
+15091 Teoloyucan 42964 66 556 63115 66 518 28 0.8 ll 320 442 ZM_del_Valle_de_México_
+15092 Teotihuacan 30 486 44653 $3010 $6 993 39 a7 Ls 83.2 371 ZM_del_Valle_de_México_
+15093 Tepetlaoxtoc 16 120 22729 27944 30 680 35 20 20 278.9 15.5 ZM_del_Valle_de_México_
+15094 Tepetlixpa 12.687 16 863 18 327 19 843 29 08 L? 431 322 ZM_del_Valle_de_México_
+15095 Tepatzotlin 39647 62 280 8B 559 94198 a7 35 13 207.2 55.4 ZM_del_Valle_de_México_
+15096 Tequixquiac 20784 28 067 33.907 36 902 31 18 18 122.8 18.7 ZM_del_Valle_de_México_
+15099 Texcoco 140 368 204 102 235151 240 749 38 4 05 4282 45.9 ZM_del_Valle_de_México_
+15100 Tezoyuca 12416 18 852 35.199 41333 43 6.2 34 163 37.0 ZM_del_Valle_de_México_
+15103 Tlalmanalco 32984 42507 46130 47 390 26 0.8 06 260.2 535 ZM_del_Valle_de_México_
+15104 Tlalnepantla de Baz 702 807 7241s 664 225 700 734 03 08 ll 80.4 1934 ZM_del_Valle_de_México_
+15108 Tultepec 47 323 93.277 92 808 150.182 71 0.2 209 26.8 210.2 ZM_del_Valle_de_México_
+15109 Tultitln 246 464 432141 924074 520.557 58 19 ol 66.0 188.6 ZM_del_Valle_de_México_
+15122 Villa del Carbén 27 283 37.993 24881 47 151 34 16 10 3034 22.6 ZM_del_Valle_de_México_
+15120 Zumpango 71413 99774 159 647 199 069 34 AT 47 223.6 45.0 ZM_del_Valle_de_México_
+15121 Cuautitlan lacalli 326 750 253 298 51.675 531041 34 12 08 210.2 226.5 ZM_del_Valle_de_México_
+15122 Valle de Chalco Solidaridad na 323 461 357 645 396157 na 10 22 467 198.7 ZM_del_Valle_de_México_
+15125 Tonanitla na na 10 216 9728 na na 10 9.0 56.4 ZM_del_Valle_de_México_
+28022 Matamoros 303 293 418141 489.193 520 367 3.3 Ls 13 4633.2 699 ZM_de_Matamoros_
+25012 Mazatlan 314 345 380 509 438 434 502 547 1.9 14 2.9 2532.6 88.4 ZM_de_Mazatlán_
+31002 Acanceh 11277 13 166 15 337 16127 16 1s ql 137.3 211 ZM_de_Mérida_
+32023 Conkal 6430 7620 9143 11141 7 18 42 63.3 13.6 ZM_de_Mérida_
+31038 Hunucma 21467 25979 30731 32475 19 16 1.2 839.7 24.6 ZM_de_Mérida_
+32041 Kanasin 24 503 39191 78709 96317 48 7.0 43 102.2 SL7 ZM_de_Mérida_
+31080 Mérida 556 819 705 085 830732 892 363 24 16 1s 883.4 59.4 ZM_de_Mérida_
+32063 Samahil 3889 4354 5.008 51.9 ql 14 O58 160.6 22.8 ZM_de_Mérida_
+31090 Timucuy 4808 5883 6833 7362 21 1s 16 134.6 20.7 ZM_de_Mérida_
+32093 Tixkekab 13.696 15281 17276 17-787 ql Ll o7 172.3 19.6 ZM_de_Mérida_
+31095 Tixpéhual 4352 4840 5 388 3407 Ll 1.0 ol 70.9 16.4 ZM_de_Mérida_
+32100 Ucti 2430 2909 3469 3.682 18 l? 13 130.8 96 ZM_de_Mérida_
+31101 Uman, 39 324 49145 50993 55 261 23 04 ? 349.1 52.5 ZM_de_Mérida_
+02002 Mexicali 601938 764 602 936 826 988 417 24 2.0 11 15 654.0 59.3 ZM_de_Mexicali_
+30048 Cosoleacaque 46726 97 437 117725 129 527 77 18 2.0 276.8 58.6 ZM_de_Minatitlán_
+30059 Chinameca 13 067 24105 15214 26241 og a7 1lé 274.5 19.8 ZM_de_Minatitlán_
+30089 Jaltipan 38678 37 764 39673 41644 O2 as 10 316.8 397 ZM_de_Minatitlán_
+30108 Minatitlan 195523 153 001 257 840 157393 2.4 0.3 01 2218.2 5B.8 ZM_de_Minatitlán_
+30120 Oteapan 10 683 12137 14965 16222 13 2.0 lL? 22.3 18.1 ZM_de_Minatitlán_
+30199 Zaragoza 6725 8945 10720 21354 29 18 12 2.7 393 ZM_de_Minatitlán_
+05006 Castaios 21396 22.530 25 892 28 068 05 14 ? 3343.0 28.2 ZM_de_Monclova-Frontera_
+05010 Frontera 61450 66579 78215 80991 o8 12 16 457.5 56.6 ZM_de_Monclova-Frontera_
+05018 Monclova 178 606 193744 216 206 231107 O8 ll 14 12815 55.6 ZM_de_Monclova-Frontera_
+05031 San Buenaventura 20216 20046 22149 23 587 ol Lo 13 6 443.0 29.5 ZM_de_Monclova-Frontera_
+19001 Abasolo 1373 2914 2791 2639 63 10 12 469 74 ZM_de_Monterrey_
+19006 Apodaca 115 913 283.497 523 370 597 207 94 6 28 224.7 227.3 ZM_de_Monterrey_
+19009 Cadereyta Jiménez 53 582 75059 86 445 95534 35 14 21 11409 56.0 ZM_de_Monterrey_
+19020 El Carmen 4906 6644 16 092 38 306 a1 89 20.0 204.3 434 ZM_de_Monterrey_
+19012 Ciénega de Flores 6708 11.204 24 526 42715 83 79 12.4 138.7 347 ZM_de_Monterrey_
+19028 Garcia 13 164 28974 143 668 247 370 83 16.8 22a 10320 204.2 ZM_de_Monterrey_
+19019 San Pedro Garza Garcia 113 040 125 978 122 659 123 156 Ll 0.3 ol 70.8 39.4 ZM_de_Monterrey_
+19021 General Escobedo 98.147 233.457 357 937 225.148 a1 42 a7 148.9 213.0 ZM_de_Monterrey_
+19025 General Zuazua 4647 6033 $213 67.294 27 239 42 184.5 109.0 ZM_de_Monterrey_
+19026 Guadalupe 535 560 670162 678 006 682 880 23 On 02 lay Lo7t ZM_de_Monterrey_
+19031 Juarez 28 014 66497 256 970 333 481 91 140 5.6 247.3 112.3 ZM_de_Monterrey_
+19039 Monterrey 2069238 «1110997 1235550: 1109171 04 0.2 05 324.8 2077 ZM_de_Monterrey_
+19041 Pesqueria 8188 11321 20 843 87 168 33 61 35.1 3228 339 ZM_de_Monterrey_
+19045 Salinas Victoria 9518 29.024 32.660 54192 72 5.4 212 1667.4 40.9 ZM_de_Monterrey_
+19046 San Nicolas de los Garza 436 603 496 878 443.273 430.143 13 qi 06 60.2 116.8 ZM_de_Monterrey_
+19047 Hidalgo 12 668 24275 16 604 23.836 21 18 38 270.6 192 ZM_de_Monterrey_
+19048 Santa Catarina 163 848 227 026 268 955 296 954 33 a7 21 915.8 126.8 ZM_de_Monterrey_
+19049 Santiago 30 182 36812 40 469 42.407 2.0 09 10 739.2 18.2 ZM_de_Monterrey_
+16022 Charo 16 213 19 169 21723 21784 ? 12 ol 323.0 34.2 ZM_de_Morelia_
+16053 Moreia 492901 620 832 £29.29 184116 23 16 16 11924 92.8 ZM_de_Morelia_
+16088 Tarimbaro 33.871 39 408 78623 105 400 1s 69 64 285.7 98.7 ZM_de_Morelia_
+NEE OO OE ZM_de_Moroleón-Uriangato_
+11021 Moroledn 48191 47132 49 364 50377 0.2 04 0.4 199.7 69.7 ZM_de_Moroleón-Uriangato_
+11041 Uriangato 46710 52931 59 305 62761 13 ll 1.2 126.3 70.0 ZM_de_Moroleón-Uriangato_
+26043 Nogales 107 936 159 787 220 292 233952 40 3.2 1.3 1796.6 99.8 ZM_de_Nogales_
+28027 Nuevo Laredo 219 468 310915 384033 399 431 3.6 21 08 1224.0 70.9 ZM_de_Nuevo_Laredo_
+20045 Magdalena Apasco 3969 3942 7522 8 303 10 65 21 27.0 19.2 ZM_de_Oaxaca_
+20063 Nazareno Etla 3.207 3368 3.882 3.910 0s 14 0.2 43 19.8 ZM_de_Oaxaca_
+20067 axaca de Juarez 213 985 256 130 263.357 264 251 18 03 ol 89.5 75.1 ZM_de_Oaxaca_
+20083 San Agustin de las Juntas 2646 4970 089 9.342 66 48 3a 26.0 33.4 ZM_de_Oaxaca_
+20087 San Agustin Yatareni 2687 3.400 4075 4334 24 18 13 64 16.2 ZM_de_Oaxaca_
+20091 San Andrés Huayapam 2355 3.909 4879 5336 5.2 22 19 276 267 ZM_de_Oaxaca_
+20107 San Antonio de la Cal 7941 15 261 21456 23038 68 34 Ls 110 59.8 ZM_de_Oaxaca_
+20125 San Bartolo Coyotepec 3.825 4740 8684 9 105 2.2 6.0 10 3L4 34.8 ZM_de_Oaxaca_
+20157 San Jacinto Amilpas 2449 8343 13.860 1 720 13.1 5.0 27 42 378 ZM_de_Oaxaca_
+20174 Animas Trujano 2.282 2.887 3759 3917 24 26 09 3.0 278 ZM_de_Oaxaca_
+20227 SanLorenzo Cacaotepec 7061 9965 13-704 15 735 38 31 29 278 174 ZM_de_Oaxaca_
+20293 SanPablo Etla 4228 7103 15535 25.993 54 79 06 44.4 93.4 ZM_de_Oaxaca_
+20338 Villa de Etla 6077 7.819 9280 10737 26 Lz 3a 8.2 29.9 ZM_de_Oaxaca_
+20350 San Sebastian Tutla 4231 25690 16 241 2819s nan 03 24 73 2073 ZM_de_Oaxaca_
+20375 Santa Cruz Amilpas 4204 6457 10120 12814 44 44 ba 23 84.6 ZM_de_Oaxaca_
+20385 Santa Cruz Xoxacotlan 30 762 52 806 77833 93 188 56 38 39 239 53.8 ZM_de_Oaxaca_
+20390 Santa Lucia del Camino 29 122 44 364 47 356 49 439 43 06 09 94 824 ZM_de_Oaxaca_
+20399 Santa Marfa Atzompa $781 25749 27465 34115 20.6 5.5 a7 323 48 ZM_de_Oaxaca_
+20403 Santa Maria Coyotepec 877 1658 2772 2971 66 Sa Ls 65 18.4 ZM_de_Oaxaca_
+20408 Santa Maria del Tule 6398 7272 8165 3918 13 ne 19 16.8 575 ZM_de_Oaxaca_
+20819 epee 2353 2834 2790 2988 19 02 is 30.5 19.3 ZM_de_Oaxaca_
+20539 Soledad Etla 3.205 3.902 5025 5591 2.0 25 23 12.5 20.2 ZM_de_Oaxaca_
+20853 Tlalixtac de Cabrera $121 6777 9417 10 208 29 3.2 7 81s 126 ZM_de_Oaxaca_
+20565 villa de Zaachila 12961 29.247 34101 43.279 49 57 5a 84 36.7 ZM_de_Oaxaca_
+14047 Jamay 19145 21187 22881 24753 10 08 ? 162.8 746 ZM_de_Ocotlán_
+14063 Ocotlan 69 646 84 200 92967 99 461 19 1.0 14 242.7 85.6 ZM_de_Ocotlán_
+14066 Poncitlan 32.29 40 827 48 408 51944 24 L? 1s 834.8 55.6 ZM_de_Ocotlán_
+30022 Atzacan 13695 16998 20063 21 360 22 16 13 65.4 49.5 ZM_de_Orizaba_
+30030 Camerino Z Mendoza 35084 39 308 41778 42347 22 06 03 20.9 705 ZM_de_Orizaba_
+0074 Pluloapan de 4760 9733 6750 7221 19 16 14 18.7 94.6 ZM_de_Orizaba_
+30081 Ixhuatlancillo 6553 1.914 21150 24896 6.2 57 3.5 524 234 ZM_de_Orizaba_
+30085 Ixtaczoquitlan 43771 96896 65 385 68 823 27 14 ll 137.4 44.5 ZM_de_Orizaba_
+30098 Maltrata 22576 14709 26 898 18.096 28 1é 14 110.6 337 ZM_de_Orizaba_
+30101 Mariano Escobedo 18 758 28 622 33941 37285 43 7 20 69.5 106.0 ZM_de_Orizaba_
+30125 Nogales 27524 30 945 34 688 37 908 22 ua 2 644 58.5 ZM_de_Orizaba_
+30118 Orizaba 114 216 118593 120995 126 005 oa 0.2 a9 277 816 ZM_de_Orizaba_
+30135 Rafael Delgado 21110 14730 20 245 23112 29 Ba 28 264 44.5 ZM_de_Orizaba_
+30138 Rio Blanco 37 686 39327 40.634 41927 oa 03 07 15.2 728 ZM_de_Orizaba_
+30140 San Andrés Tenejapan 1798 2214 2715 2922 2 2.0 25 219 35.7 ZM_de_Orizaba_
+30185 Tlilapan 3118 3.955 4879 5258 24 21 16 112 28.0 ZM_de_Orizaba_
+13022 Epazoyucan 9 302 110s4 13 830 14.693 18 22 13 142.3 s7 ZM_de_Pachuca_
+13039 Mineral del Mente 13 043 12885 13 864 24.640 OL O.7 12 53.4 39.9 ZM_de_Pachuca_
+13048 Pachuca de Soto 180 630 245 208 267 862 277.375 31 09 07 1s4.1 86.4 ZM_de_Pachuca_
+13051 Mineral de la Reforma 20 820 42223 227 404 150.176 74 123 35 2125 838 ZM_de_Pachuca_
+13082 San Agustin Tlaxiaca 19 941 24 248 32057 36079 20 27 25 297.4 26 ZM_de_Pachuca_
+13082 Zapotlan de Juarez 12481 14 888 18 036 18 748 27 19 08 205.3 173 ZM_de_Pachuca_
+13083 Zempoala 21295 24516 39.143, 45 382 14 46 32 3199 219 ZM_de_Pachuca_
+05022 Nava 16915 23019 27928 30 698 3.2 1s 2.0 907.9 38.6 ZM_de_Piedras_Negras_
+05025 Piedras Negras 98185 128 130 152 806 163 595 27 Ll? 14 474 59.4 ZM_de_Piedras_Negras_
+30033 Cazones de Herrera 24 667 23 839 23.483 23675 03 OL 0.2 272.3 34.5 ZM_de_Poza_Rica_
+30040 Ceatzintla 34221 39.189 48351 56897 14 21 35 Qh Aa ZM_de_Poza_Rica_
+30124 Papantla 158 003 170 304 158599 161 097 O8 OF 03 1456.5 50.9 ZM_de_Poza_Rica_
+30131 Poza Ricade Hidalgo 151/39 152 838 193311 200119 ol 23 oF 64.1 0.4 ZM_de_Poza_Rica_
+30175 Tihuatlan 77304 81088 89774 96 418 05 1.0 1s 718.4 474 ZM_de_Poza_Rica_
+21001 Acajete 41227 49 462 60 353 65 048 1g 19 16 176.9 299 ZM_de_Puebla-Tlaxcala_
+21025 Amozoc 35738 64315 200 964 127 244 61 45 32 2352 o.4 ZM_de_Puebla-Tlaxcala_
+21034 Coronango 20576 27575 34596 40 949 3.0 22 3.6 36.7 197 ZM_de_Puebla-Tlaxcala_
+21041 Cuautlancingo 29047 46 729 79153 122225 49 5.2 76 38.2 47.0 ZM_de_Puebla-Tlaxcala_
+21048 Chiautzingo 15483 17 788 18 762 20441 14 as 18 81 133 ZM_de_Puebla-Tlaxcala_
+21060 Domingo Arenas 4438 5581 6946 7421 23 2 1é 16.2 26.2 ZM_de_Puebla-Tlaxcala_
+21074 Huejotzingo 41792 50 868 63497 73771 2.0 22 32 173.0 43.1 ZM_de_Puebla-Tlaxcala_
+21090 Juan C Bonilla 12495 24483 18 540 21253 24 24 29 22.3 2.9 ZM_de_Puebla-Tlaxcala_
+21106 Qcoyucan 17-708 23619 25720 28 220 29 08 2.0 119.8 19.0 ZM_de_Puebla-Tlaxcala_
+21124 Puebla 1057454 1346916 1539819 1576 259 25 23 05 542.8 202.9 ZM_de_Puebla-Tlaxcala_
+21119 San Andrés Cholula 37788 56066 100 439 137 290 4 58 68 63.2 413 ZM_de_Puebla-Tlaxcala_
+21122 San Felipe Teotlalcingo 7719 8632 9426 20456 ll 09 22 30.4 20.3 ZM_de_Puebla-Tlaxcala_
+21125 San Gregorio Atzompa 5593 6934 8170 8.962 2.2 16 2.0 118 19.8 ZM_de_Puebla-Tlaxcala_
+21132 San Martin Texmelucan 94471 121071 242112 152051 25 25 16 89.6 54.2 ZM_de_Puebla-Tlaxcala_
+21136 San Miguel Xoxtla 7478 9.350 11598 12341 23 21 13 83 44.8 ZM_de_Puebla-Tlaxcala_
+21140 San Pedro Cholula 78177 99794 220459 129.032 25 18 1s 76.9 4.2 ZM_de_Puebla-Tlaxcala_
+21143 San Salvador el Verde 17980 22649 28419 31355 24 22 21 110.9 234 ZM_de_Puebla-Tlaxcala_
+21163 Tepatlaxco de Hidalgo 12153 24055 16275 27472 1s 4 1s 6.3 426 ZM_de_Puebla-Tlaxcala_
+21181 Tlaltenango 4338 5370 6269 7125 2.2 1s 27 21s 19.0 ZM_de_Puebla-Tlaxcala_
+290-8 macula de Mariano 30 663 30 301 35 162 38 324 OL 28 18 26.5 23.8 ZM_de_Puebla-Tlaxcala_
+29017 Mazarecochco de Jose 6320 8357 9740 10 901 29 1s 24 14.6 93.4 ZM_de_Puebla-Tlaxcala_
+29029 Tepetitla de Lardizabal 12235 24313 18725 21060 25 26 25 23.2 322 ZM_de_Puebla-Tlaxcala_
+29022 vou de Miguel 6989 4357 s7ll 5925 46 27 O38 18.0 141 ZM_de_Puebla-Tlaxcala_
+29023 Nativitas 22485 21020 23621 25053 0.2 ne 12 52.5 19.0 ZM_de_Puebla-Tlaxcala_
+29025 San Pablo del Monte 40917 $4387 69 615 77 242 29 24 22 98.9 673 ZM_de_Puebla-Tlaxcala_
+29027 Tenancingo 9749 20142 12763 22834 0.4 14 18 13.2 32.5 ZM_de_Puebla-Tlaxcala_
+29029 Tepeyanco 16 942 9 006 11048 12047 6.2 20 18 16.4 79 ZM_de_Puebla-Tlaxcala_
+29032 Tetlatlahuca 15801 10 803 12410 13414 38 LA 16 26.2 16.4 ZM_de_Puebla-Tlaxcala_
+29041 Papalotla de Xicohténcat! 17-222 22 288 26997 30 364 26 19 25 23.2 26.7 ZM_de_Puebla-Tlaxcala_
+29042 Xicohtzinco 8563 10 226 12255 13629 18 Le 23 73 28.1 ZM_de_Puebla-Tlaxcala_
+29044 Zacatelco 36 650 31915 38 654 42 686 14 19 21 29.5 37.8 ZM_de_Puebla-Tlaxcala_
+29051 San Jerénimo Zacualpan na 3.234 3581 3767 na 1.0 Ll 78 18.6 ZM_de_Puebla-Tlaxcala_
+29053 San Juan Huactzinco na 3947 6821 FSi na 20 2.0 46 29.3 ZM_de_Puebla-Tlaxcala_
+29054 SanLorenzo Axocomanitla na, 4368 5045 5618 na, 14 23 45 48.2 ZM_de_Puebla-Tlaxcala_
+29056 Santa Ana Nopalucan na 5 BSL 687 7773 na Ls 27 92 19.3 ZM_de_Puebla-Tlaxcala_
+29057 Santa Apolonia Teacalco na 3676 4349 2559 na 16 10 8.0 26.8 ZM_de_Puebla-Tlaxcala_
+29058 Santa Catarina Ayometla na 6997 7992 8817 na 13 21 lo 17.0 ZM_de_Puebla-Tlaxcala_
+29059 Santa Cruz Quilehtla na 4883 6296 7169 na 25 28 54 179 ZM_de_Puebla-Tlaxcala_
+14067 Puerto Vallarta 111457 184 728 255 681 275640 o2 32 16 680.9 86.8 ZM_de_Puerto_Vallarta_
+18020 Bahia de Banderas 39831 59 808 124 205 150 280 42 13 4l fA Tt ZM_de_Puerto_Vallarta_
+11004 Apaseo el Alto 4B 455 96817 64433 68455 16 12 13 373.9 476 ZM_de_Querétaro_
+22006 Corregidara 43775 74558 143073 181 684 5.5 65 5 234.9 78 ZM_de_Querétaro_
+22008 Huimilpan 24 106 29.140 35554 38295 1s 19 16 388.1 274 ZM_de_Querétaro_
+22021 ElMarqués 55 258 71397 116 458 156 278 26 48 6.4 7476 5B4 ZM_de_Querétaro_
+22014  Querétaro 456 458 641 386 801940 878 931 3S 22 19 682.7 108.4 ZM_de_Querétaro_
+28032 Reynosa 282 667 420 463 608 891 646 202 41 36 13 3146.9 733 ZM_de_Reynosa_
+28033 Rio Bravo 94009 104 229 118 259 126 887 1.0 12 15 15837 55.5 ZM_de_Reynosa_
+24011 Ciudad Fernandez 34778 39944 43 528 45 385 14 08 09 518.4 22.6 ZM_de_Rioverde_
+24024 Rioverde 86434 Bg 992 91924 94 292 03 03 os 3064.0 33.2 ZM_de_Rioverde_
+05004 Arteaga 17414 19374 22944 23271 ql 1s oF 1635.3 25.3 ZM_de_Saltillo_
+05027 Ramos Arizpe 28 246 39.853 78462, 92 828 35 64 44 6754.4 716 ZM_de_Saltillo_
+05030 Saltillo 440 920 578 046 725123 807 $37 2.8 22 23 5619.6 82.9 ZM_de_Saltillo_
+11025 Purisima del Rincén 30.433 44778 68795 79798 40 42 3.2 290.7 58.1 ZM_de_San_Francisco_del_Rincón_
+11031 San Francisco del Rincon 83.602 100 239 113570 119 520 18 12 ql 425.4 68.7 ZM_de_San_Francisco_del_Rincón_
+24028 San Luis Potosi 525 733 670.532 772.604 824229 25 14 14 1482.0 103.5 ZM_de_San_Luis_Potosí_
+ ZM_de_San_Luis_Potosí_
+24035 Soledad de Craciano 132979 180 296 267 839 309 342 Ba 39 Ba 305.7 1128 ZM_de_San_Luis_Potosí_
+Sanchez ZM_de_San_Luis_Potosí_
+ ZM_de_San_Luis_Potosí_
+24055 Zaragoza 19143 21962 2496 26 236 14 la 14 614.2 74.4 ZM_de_San_Luis_Potosí_
+28003 Altamira 82985 127 664 212001 235 066 45 5.0 2.2 16619 75.4 ZM_de_Tampico_
+28009 Ciudad Madero 160 331 182 325 19/216 209 1/5 13 08 12 48.4 821 ZM_de_Tampico_
+28038 Tampico 272690 295 442 297 954 314418 O8 OL 1.2 114s 95.6 ZM_de_Tampico_
+30123 Paquco 8/ 708 90 65/ 97290 100 549 03 oF oF 3168.2 40.4 ZM_de_Tampico_
+30133 Pueblo Viejo 45 284 50329 55 358 57 646 ql 09 0.9 288.7 49.3 ZM_de_Tampico_
+07089 Tapachula 222408 271674 320451 348 156 20 16 18 980.1 70.6 ZM_de_Tapachula_
+06001 Ameria 27782 28574 28 695 29399 03 00 oF 408.8 447 ZM_de_Tecomán_
+06009 Tecoman 82699 99 289 112726 123191 19 12 19 938.9 69.8 ZM_de_Tecomán_
+21149 Santiago Miahuatlan 9073 14 249 21993 25 228 46 4.3 2.9 94.0 28.2 ZM_de_Tehuacán_
+21156 Tehuacan 155 563 226 258 274 906 319375 3.8 19 3.2 553.0 761 ZM_de_Tehuacán_
+20079 Salina Cruz 65 707 76 452 82371 89211 1s OF 7 1318 50.6 ZM_de_Tehuantepec_
+20124 SanBlas Atempa 10935 15 886 17094 18 406 38 or 16 208.3 103.8 ZM_de_Tehuantepec_
+20308 San Pedro Huilotepec 2236 2588 2839 3146 1s 09 22 26.5 23.0 ZM_de_Tehuantepec_
+20421 Santa Maria Mixtequilla 3.629 4041 4422 4555 ql 09 05 147.8 40.4 ZM_de_Tehuantepec_
+20515 renee 47147 53.229 61872 64 639 12 LS 09 1197.7 4s ZM_de_Tehuantepec_
+18008  Xalisco 26722 37 664 49102 57 418 3.5 26 3.3 503.8 713 ZM_de_Tepic_
+18017 Tepic 241463 305176 380 249 413 608 24 22 18 1635.2 89.6 ZM_de_Tepic_
+21054  Chignautla 13 037 21971 30254 34196 3.2 3.3 2.6 148.3 38.8 ZM_de_Teziutlán_
+21174 Teziutlan 63.245 81156 92 246 97 590 2.5 12 1.2 92.5 53.0 ZM_de_Teziutlán_
+15006 Almoloya del Rio 6777 8873 10 886 11126 2? 20 os 92 46.8 ZM_de_Tianguistenco_
+15022 Atizapan 5339 e172 10 299 21875 44 23 3.0 BS B22 ZM_de_Tianguistenco_
+15019 Capulhuac 21.258 28 B08 34101 35495 31 16 os 216 539 ZM_de_Tianguistenco_
+15043 Xalatlaco 14 047 29182 26 B65 29572 32 33 20 208.2 63 ZM_de_Tianguistenco_
+15098 Texcalyacac 2961 3997 S111 5246 31 24 os 247 277 ZM_de_Tianguistenco_
+15101 Tianguistenco 42 448 58381 70 682 77147 3.3 19 19 L3l8 6.6 ZM_de_Tianguistenco_
+02003 Tecate S1 $57 77799 101079 102 406 42 26 03 2687.2 APA ZM_de_Tijuana_
+02004 Tijuana #47381 1210820 1559683 -16414/0 5.0 25 Ll 12357 89.3 ZM_de_Tijuana_
+02005 Playas de Rosarito na 63.420 90 668 96734 na 35 14 4997 38.4 ZM_de_Tijuana_
+eee ZM_de_Tlaxcala-Apizaco_
+29001 Amaxac de Guerrero 6.192 7679 987s 11144 22 2s 26 12 wa ZM_de_Tlaxcala-Apizaco_
+29002 cee Ge Antonio 8990 21795 13361 15271 28 12 28 16 26.3 ZM_de_Tlaxcala-Apizaco_
+2900 Apizaco 1744 67675 76492 78624 2? 12 0.6 436 96.8 ZM_de_Tlaxcala-Apizaco_
+29009 Cuaxomulee 3365 2255 5 066 5272 24 LT 08 16.7 78 ZM_de_Tlaxcala-Apizaco_
+29010 Chiautempan 61144 $7912 66149 70011 06 1a 12 772 44s ZM_de_Tlaxcala-Apizaco_
+29028 Contla de Juan Cuamatzi 22380 28 842 35084 38.330 26 1 1s 262 319 ZM_de_Tlaxcala-Apizaco_
+29024 Panotla 17 903 23391 25128 27.154 2? a7 1é 61.0 24.2 ZM_de_Tlaxcala-Apizaco_
+29026 Santa Cruz Tlaxcala 10522 22824 17 968 20242 20 33 25 25.9 95 ZM_de_Tlaxcala-Apizaco_
+29031 Tetla dela Solidaridad 15.429 21753 28 760 32613 3.8 uz 27 169.8 178 ZM_de_Tlaxcala-Apizaco_
+29033 Tlaxcala 50 292 73.230 89795 95.051 3.8 20 12 52.0 202 ZM_de_Tlaxcala-Apizaco_
+29038 Tocatlin 3729 4735 5589 9 843 24 16 09 143 112 ZM_de_Tlaxcala-Apizaco_
+29036 Totolac 15 200 26682 20625 2igi4 09 22 12 138 376 ZM_de_Tlaxcala-Apizaco_
+29038 Tzompantepec 10 406 9294 14611 16 359 LL 4s 24 38.4 Ba ZM_de_Tlaxcala-Apizaco_
+29039 Xaloztoc 13.500 26.857 22769 23.905 23 25 20 415 24.5 ZM_de_Tlaxcala-Apizaco_
+29043 Yauhquemehean 12783 21855 33081 38 296 5.4 42 3.1 374 274 ZM_de_Tlaxcala-Apizaco_
+29048 La Magdalena Tlaltelulco na 23697 16 834 28873 na 20 24 ie 17.0 ZM_de_Tlaxcala-Apizaco_
+29049 San Damian Texéloc na 4360 5 064 5 $69 na Ls 20 10.2 241 ZM_de_Tlaxcala-Apizaco_
+29030 San Francisco na 80829880090 oa oa 2 395 2s ZM_de_Tlaxcala-Apizaco_
+29060 Santa Isabel Xiloxoxtla na 3184 4436 4992 na 33 25 6.0 78 ZM_de_Tlaxcala-Apizaco_
+15005 Almoloya de Juarez 84147 11091 147 653 176 237 28 28 3.8 4796 45.4 ZM_de_Toluca_
+15028 Caliraya 24 906 35.196 47033 56574 35 28 40 103.0 57.9 ZM_de_Toluca_
+15027 Chapultepec 3.863 5735 9676 11764 al 5.2 42 116 467 ZM_de_Toluca_
+15051 Lerma 66912 99.870 234799 146 654 41 29 18 230.8 43.9 ZM_de_Toluca_
+15054 Metepec 140 268 194 463 214162 227 827 3.3 09 13 67.5 838 ZM_de_Toluca_
+15055 Mexicaltzinga 7248 9225 1712 12796 25 23 19 17 577 ZM_de_Toluca_
+15062 Ocoyoacac 37395 49 643 61805 66190 29 21 1s 138.7 599 ZM_de_Toluca_
+15067 Otzolotepec 40 407 57 583 78146 82519 3.6 3.0 1? 2123 28.0 ZM_de_Toluca_
+15072 Rayon 7026 9024 12748 13 261 2.6 34 08 23.0 623 ZM_de_Toluca_
+15073 San Antonia la Isla 7321 20321 22152 27.230 35 a 44 25.3 8.3 ZM_de_Toluca_
+15076 San Mateo Atenco 41926 $9 647 72579 75911 3.6 19 08 210 49.6 ZM_de_Toluca_
+15087 Temoaya 49427 69 306 90 010 103 834 35 26 3.0 288 335 ZM_de_Toluca_
+15090 Tenango del Valle 45952 65119 77:96 86 380 3.6 18 2.2 208.5 548 ZM_de_Toluca_
+15106 Toluca 487 612 666 596 819 561 873 536 3.2 2.0 13 426 723 ZM_de_Toluca_
+15115 Xonacatlan 28 837 41402 46331 51646 37 ll 23 535 433 ZM_de_Toluca_
+15128 Zinacantepec 83197 121.850 167759 188 927 3.9 Bl 25 309.7 479 ZM_de_Toluca_
+13010 Atitalaquia 17 626 21636 26 904 29 683 21 21 21 625 23.0 ZM_de_Tula_
+13023 Atotonilca de Tula 19 327 24 848 31078 38564 26 2.2 46 122.3 15 ZM_de_Tula_
+13070 Tlahuelilpan 11 $08 13 936 17183 19 389 1s 20 2.6 31S 44.6 ZM_de_Tula_
+13074 Tlaxcoapan 18 264 22 641 26758 28 490 2.2 16 13 390 277 ZM_de_Tula_
+13076 Tulade Allende 73713 86 840 103919 109 093 l? 18 1.0 336.1 339 ZM_de_Tula_
+13016 Cuautepec de Hinojosa 36519 45110 94500 58 301 21 18 La 3914 18.8 ZM_de_Tulancingo_
+ ZM_de_Tulancingo_
+15056 Santiago Tu antepec de 18 048 26 254 33.495 3/292 38 24 23 64.3 39.0 ZM_de_Tulancingo_
+Lugo Guer-ero ZM_de_Tulancingo_
+ ZM_de_Tulancingo_
+13077 Tulancingo de Bravo 92570 122.274 si sea 161069 28 21 13 2174 767 ZM_de_Tulancingo_
+07012 Berriozabal 22170 28719 43179 $1722 2.6 4.0 3.9 352.0 61g ZM_de_Tuxtla_Gutiérrez_
+0/02/ Chiapa de Corze 45143 60 620 8/ 603 100/51 3.0 36 3.0 830.6 64.3 ZM_de_Tuxtla_Gutiérrez_
+07079 San Fernando 22 388 26 436 33.060 39 204 ? 22 3.6 359.5 86.1 ZM_de_Tuxtla_Gutiérrez_
+0/086 Suchiapa 12.293 15890 21045 24.049 2.6 28 28 283.9 516 ZM_de_Tuxtla_Gutiérrez_
+07101 Tuxtla Gutiérrez 295 608 434143 553 374 598 710 3.9 24 ? 3349 849 ZM_de_Tuxtla_Gutiérrez_
+30011 Alvarado 49 040 49.499 51955 $2927 OL os 0.4 826.9 822 ZM_de_Veracruz_
+30028 Bocadel Rio 144549 135 804 138058 142 207 0.6 02 0.6 3B 96.6 ZM_de_Veracruz_
+30090 Jamapa oy 9969 10 376 11361 08 o4 19 1321 339 ZM_de_Veracruz_
+30100 Manlio Fabio Altamirano 19 345 20 580 22585 23 408 0.6 09 og 2472 34.6 ZM_de_Veracruz_
+30105 Medellin de Bravo 29 298 BS 171 59126 75 346 1s 5.2 5.2 397.3 659 ZM_de_Veracruz_
+30193 Veracruz 328 607 457377 552156 609 964 3.4 18 21 247.2 116 ZM_de_Veracruz_
+27004 Centro 386776 520 308 640 359 684 847 3.0 20 14 1717.8 828 ZM_de_Villahermosa_
+2/013 Nacajuca 50/91 802/2 115066 138 366 4d 34 40 535.3 loss ZM_de_Villahermosa_
+30026 Banderilla 22110 16 433 21946 24822 2.9 27 3.0 19.8 SL ZM_de_Xalapa_
+30036 Coacoatzintla 5 407 7301 9416 10 482 31 25 23 43.9 48.5 ZM_de_Xalapa_
+30038 Coatepec 61793 73936 86 696 92127 18 16 13 202.3 65.2 ZM_de_Xalapa_
+30065 Emiliano Zapata 36 370 44.580 61718 78 336 21 3.2 51 415.8 63.7 ZM_de_Xalapa_
+30087 Xalapa 288 454 390 590 457 928 480 841 31 16 10 124.6 106.9 ZM_de_Xalapa_
+30092 Xica 24162 28 762 35 188 38.198 18 20 1? 179.0 610 ZM_de_Xalapa_
+30093 Jilotepec 11$40 13.025 15313 16 682 12 16 18 56.3 39.3 ZM_de_Xalapa_
+30136 Rafael Lucio 4309 5342 7023 8068 2.2 27 3.0 1L5 37.3 ZM_de_Xalapa_
+30182 Tlanelhuayocan 6963 11484 16311 18715 6.2 35 29 36.7 113.3 ZM_de_Xalapa_
+32017 Guadalupe 82770 109 066 159 991, 187918 28 38 34 817.1 858 ZM_de_Zacatecas-Guadalupe_
+32032 Moreos 8143 9795 11493 12 354 18 16 1 180.9 426 ZM_de_Zacatecas-Guadalupe_
+32050 Vetagrande 6559 7228 9353 9796 10 25 10 160.0 43.6 ZM_de_Zacatecas-Guadalupe_
+32056 Zacatecas 108 $56 123.899 1381/6 146 14/ 13 ll 12 441s 941 ZM_de_Zacatecas-Guadalupe_
+32057 Trancoso na 13 080 16934 19.413 na 25 29 220.8 46.8 ZM_de_Zacatecas-Guadalupe_
+16043 Jacona 40 546 54130 640ll 69744 3.0 16 1.8 118.7 716 ZM_de_Zamora_
+16108 © Zamora 144 899 161928 186 102 196 208 ql 14 ql 335.0 104.4 ZM_de_Zamora_
+
